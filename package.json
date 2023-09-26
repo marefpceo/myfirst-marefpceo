@@ -1,0 +1,24 @@
+{
+  "name": "myfirst-marefpceo",
+  "version": "1.0.0",
+  "description": "First NPM test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marefpceo/myfirst-marefpceo.git"
+  },
+  "keywords": [
+    "NPM",
+    "Test",
+    "First"
+  ],
+  "author": "Lamar Stevens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marefpceo/myfirst-marefpceo/issues"
+  },
+  "homepage": "https://github.com/marefpceo/myfirst-marefpceo#readme"
+}
